@@ -1,0 +1,14 @@
+numpy
+pandas
+cv2
+pathlib
+matplotlib
+tensorflow
+keras
+streamlit
+PIL
+Image
+os
+warnings
+langchain_groq
+sklearn
